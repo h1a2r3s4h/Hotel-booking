@@ -16,7 +16,6 @@ A full-featured hotel booking web application where users can search for hotels,
 
 - [Node.js](https://nodejs.org/) (v14+ recommended)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
-- (Optional) MongoDB or Firebase for backend/database
 
 ### Installation
 
